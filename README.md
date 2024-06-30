@@ -1,16 +1,41 @@
-# demo_udemy
+Roll a Dice
+Overview
+Roll a Dice is a simple Flutter app that simulates the rolling of a dice. With a press of a button, the app randomly displays a dice face, providing a fun and interactive way to simulate dice rolling.
 
-A new Flutter project.
+Features
+Randomly displays a dice face on button press.
+Simple and intuitive user interface.
+Lightweight and fast.
+Installation
+To run this project locally, follow these steps:
 
-## Getting Started
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/SaurabhJadhav09/Roll-a-dice.git 
+cd roll-a-dice
+Install dependencies:
+Make sure you have Flutter installed. Then run:
 
-This project is a starting point for a Flutter application.
+bash
+Copy code
+flutter pub get
+Run the app:
+bash
+Copy code
+flutter run
+Usage
+Open the app, and simply press the "Roll" button to get a random dice result.
 
-A few resources to get you started if this is your first Flutter project:
+Learnings
+This project was built as part of my learning journey in Flutter and Dart, inspired by a Udemy course. It helped me understand the basics of Flutter app development, state management, and random number generation in Dart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contributing
+Feel free to fork this project, open issues, or submit pull requests with improvements or bug fixes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+License
+This project is licensed under the MIT License.
+
+Acknowledgements
+Thanks to the Udemy course for providing the foundation for this project.
+Thanks to the Flutter and Dart communities for their valuable resources and support.
